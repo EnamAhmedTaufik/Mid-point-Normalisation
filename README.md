@@ -10,7 +10,7 @@ Enhancing diseases detection in plant leaf remains a chal- lenge, particularly w
 
 ## 📂 Dataset
 The dataset used in this research can be downloaded from the following link:  
-🔗 [Download Dataset]([https://drive.google.com/file/d/1HjA0O_-bfb-SxYvZhw8oPget5KpwISfl/view?usp=sharing](https://data.mendeley.com/datasets/g7fpgj57wc/2))
+🔗 [Download Dataset](https://data.mendeley.com/datasets/g7fpgj57wc/2)
 
 ---
 
